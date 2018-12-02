@@ -1,0 +1,33 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  padding: 10px;
+  background-color: rgba(23,54,84, 1);
+  color: white;
+  font-family: Helvetica, sans-serif, Arial;
+}
+h1 {
+  text-align: center;
+}
+
+a {
+  color: yellow;
+}
+
+.issue {
+  margin: 20px;
+  padding: 5px;
+  width: 60%;
+  border: 2px solid black;
+}
+
+.closed {
+  background-color: darkblue;
+}
+
+.id {
+  font-size: 10.5px;
+}
